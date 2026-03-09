@@ -1,0 +1,8 @@
+# Environment: Python 3.10.18
+torch==2.7.1+cu128
+numpy==2.2.6
+pandas==2.3.0
+tables==3.10.1
+matplotlib==3.10.3
+tqdm==4.67.1
+gaitmap==2.5.2

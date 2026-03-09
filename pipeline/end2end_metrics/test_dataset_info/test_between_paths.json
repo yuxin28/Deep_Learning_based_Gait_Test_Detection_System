@@ -1,0 +1,1290 @@
+{
+    "PAT003_2021_07_14": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_1/gait_data/2021_07_14/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_1/gait_data/2021_07_14/PAT003_week_1_2021_07_14.h5"
+        ]
+    },
+    "PAT003_2021_07_15": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_1/gait_data/2021_07_15/PAT003_2021_07_15.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_1/gait_data/2021_07_15/PAT003_week_1_2021_07_15.h5"
+        ]
+    },
+    "PAT003_2021_07_16": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_1/gait_data/2021_07_16/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_1/gait_data/2021_07_16/PAT003_week_1_2021_07_16.h5"
+        ]
+    },
+    "PAT003_2021_07_17": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_1/gait_data/2021_07_17/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_1/gait_data/2021_07_17/PAT003_week_1_2021_07_17.h5"
+        ]
+    },
+    "PAT003_2021_07_18": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_1/gait_data/2021_07_18/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_1/gait_data/2021_07_18/PAT003_week_1_2021_07_18.h5"
+        ]
+    },
+    "PAT003_2021_08_20": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_20/PAT003_2021_08_20.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_20/PAT003_week_8_2021_08_20.h5"
+        ]
+    },
+    "PAT003_2021_08_21": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_21/PAT003_2021_08_21.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_21/PAT003_week_8_2021_08_21.h5"
+        ]
+    },
+    "PAT003_2021_08_22": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_22/PAT003_2021_08_22.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_22/PAT003_week_8_2021_08_22.h5"
+        ]
+    },
+    "PAT003_2021_08_23": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_23/PAT003_2021_08_23.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_23/PAT003_week_8_2021_08_23.h5"
+        ]
+    },
+    "PAT003_2021_08_24": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_24/PAT003_2021_08_24.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_24/PAT003_week_8_2021_08_24.h5"
+        ]
+    },
+    "PAT003_2021_08_25": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_25/PAT003_2021_08_25.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_25/PAT003_week_8_2021_08_25.h5"
+        ]
+    },
+    "PAT003_2021_08_26": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_26/PAT003_2021_08_26.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_26/PAT003_week_8_2021_08_26.h5"
+        ]
+    },
+    "PAT003_2021_08_27": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_27/PAT003_2021_08_27.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT003/week_8/gait_data/2021_08_27/PAT003_week_8_2021_08_27.h5"
+        ]
+    },
+    "PAT020_2023_11_07": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT020/week_1/gait_data/2023_11_07/PAT020_2023_11_07.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT020/week_1/gait_data/2023_11_07/PAT020_week_1_2023_11_07.h5"
+        ]
+    },
+    "PAT020_2023_11_08": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT020/week_1/gait_data/2023_11_08/PAT020_2023_11_08.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT020/week_1/gait_data/2023_11_08/PAT020_week_1_2023_11_08.h5"
+        ]
+    },
+    "PAT020_2023_11_09": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT020/week_1/gait_data/2023_11_09/PAT020_2023_11_09.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT020/week_1/gait_data/2023_11_09/PAT020_week_1_2023_11_09.h5"
+        ]
+    },
+    "PAT020_2023_12_30": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT020/week_8/gait_data/2023_12_30/PAT020_2023_12_30.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT020/week_8/gait_data/2023_12_30/PAT020_week_8_2023_12_30.h5"
+        ]
+    },
+    "PAT020_2023_12_31": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT020/week_8/gait_data/2023_12_31/PAT020_2023_12_31.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT020/week_8/gait_data/2023_12_31/PAT020_week_8_2023_12_31.h5"
+        ]
+    },
+    "PAT020_2024_01_01": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT020/week_8/gait_data/2024_01_01/PAT020_2024_01_01.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT020/week_8/gait_data/2024_01_01/PAT020_week_8_2024_01_01.h5"
+        ]
+    },
+    "PAT101_2021_02_03": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_1/gait_data/2021_02_03/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_1/gait_data/2021_02_03/PAT101_week_1_2021_02_03.h5"
+        ]
+    },
+    "PAT101_2021_02_04": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_1/gait_data/2021_02_04/PAT101_2021_02_04.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_1/gait_data/2021_02_04/PAT101_week_1_2021_02_04.h5"
+        ]
+    },
+    "PAT101_2021_02_05": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_1/gait_data/2021_02_05/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_1/gait_data/2021_02_05/PAT101_week_1_2021_02_05.h5"
+        ]
+    },
+    "PAT101_2021_02_06": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_1/gait_data/2021_02_06/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_1/gait_data/2021_02_06/PAT101_week_1_2021_02_06.h5"
+        ]
+    },
+    "PAT101_2021_02_07": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_1/gait_data/2021_02_07/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_1/gait_data/2021_02_07/PAT101_week_1_2021_02_07.h5"
+        ]
+    },
+    "PAT101_2021_02_08": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_1/gait_data/2021_02_08/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_1/gait_data/2021_02_08/PAT101_week_1_2021_02_08.h5"
+        ]
+    },
+    "PAT101_2021_03_23": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_8/gait_data/2021_03_23/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_8/gait_data/2021_03_23/PAT101_week_8_2021_03_23.h5"
+        ]
+    },
+    "PAT101_2021_03_24": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_8/gait_data/2021_03_24/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_8/gait_data/2021_03_24/PAT101_week_8_2021_03_24.h5"
+        ]
+    },
+    "PAT101_2021_03_25": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_8/gait_data/2021_03_25/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_8/gait_data/2021_03_25/PAT101_week_8_2021_03_25.h5"
+        ]
+    },
+    "PAT101_2021_03_26": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_8/gait_data/2021_03_26/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_8/gait_data/2021_03_26/PAT101_week_8_2021_03_26.h5"
+        ]
+    },
+    "PAT101_2021_03_27": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_8/gait_data/2021_03_27/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_8/gait_data/2021_03_27/PAT101_week_8_2021_03_27.h5"
+        ]
+    },
+    "PAT101_2021_03_28": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_8/gait_data/2021_03_28/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT101/week_8/gait_data/2021_03_28/PAT101_week_8_2021_03_28.h5"
+        ]
+    },
+    "PAT122_2022_01_25": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_1/gait_data/2022_01_25/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_1/gait_data/2022_01_25/PAT122_week_1_2022_01_25.h5"
+        ]
+    },
+    "PAT122_2022_01_26": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_1/gait_data/2022_01_26/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_1/gait_data/2022_01_26/PAT122_week_1_2022_01_26.h5"
+        ]
+    },
+    "PAT122_2022_01_27": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_1/gait_data/2022_01_27/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_1/gait_data/2022_01_27/PAT122_week_1_2022_01_27.h5"
+        ]
+    },
+    "PAT122_2022_01_28": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_1/gait_data/2022_01_28/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_1/gait_data/2022_01_28/PAT122_week_1_2022_01_28.h5"
+        ]
+    },
+    "PAT122_2022_01_29": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_1/gait_data/2022_01_29/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_1/gait_data/2022_01_29/PAT122_week_1_2022_01_29.h5"
+        ]
+    },
+    "PAT122_2022_01_30": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_1/gait_data/2022_01_30/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_1/gait_data/2022_01_30/PAT122_week_1_2022_01_30.h5"
+        ]
+    },
+    "PAT122_2022_03_16": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_8/gait_data/2022_03_16/PAT122_2022_03_16.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_8/gait_data/2022_03_16/PAT122_week_8_2022_03_16.h5"
+        ]
+    },
+    "PAT122_2022_03_17": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_8/gait_data/2022_03_17/PAT122_2022_03_17.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_8/gait_data/2022_03_17/PAT122_week_8_2022_03_17.h5"
+        ]
+    },
+    "PAT122_2022_03_18": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_8/gait_data/2022_03_18/PAT122_2022_03_18.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_8/gait_data/2022_03_18/PAT122_week_8_2022_03_18.h5"
+        ]
+    },
+    "PAT122_2022_03_19": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_8/gait_data/2022_03_19/PAT122_2022_03_19.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_8/gait_data/2022_03_19/PAT122_week_8_2022_03_19.h5"
+        ]
+    },
+    "PAT122_2022_03_20": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_8/gait_data/2022_03_20/PAT122_2022_03_20.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_8/gait_data/2022_03_20/PAT122_week_8_2022_03_20.h5"
+        ]
+    },
+    "PAT122_2022_03_21": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_8/gait_data/2022_03_21/PAT122_2022_03_21.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT122/week_8/gait_data/2022_03_21/PAT122_week_8_2022_03_21.h5"
+        ]
+    },
+    "PAT128_2022_05_06": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_1/gait_data/2022_05_06/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_1/gait_data/2022_05_06/PAT128_week_1_2022_05_06.h5"
+        ]
+    },
+    "PAT128_2022_05_07": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_1/gait_data/2022_05_07/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_1/gait_data/2022_05_07/PAT128_week_1_2022_05_07.h5"
+        ]
+    },
+    "PAT128_2022_05_08": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_1/gait_data/2022_05_08/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_1/gait_data/2022_05_08/PAT128_week_1_2022_05_08.h5"
+        ]
+    },
+    "PAT128_2022_05_10": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_1/gait_data/2022_05_10/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_1/gait_data/2022_05_10/PAT128_week_1_2022_05_10.h5"
+        ]
+    },
+    "PAT128_2022_05_11": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_1/gait_data/2022_05_11/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_1/gait_data/2022_05_11/PAT128_week_1_2022_05_11.h5"
+        ]
+    },
+    "PAT128_2022_06_29": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_8/gait_data/2022_06_29/PAT128_2022_06_29.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_8/gait_data/2022_06_29/PAT128_week_8_2022_06_29.h5"
+        ]
+    },
+    "PAT128_2022_06_30": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_8/gait_data/2022_06_30/PAT128_2022_06_30.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_8/gait_data/2022_06_30/PAT128_week_8_2022_06_30.h5"
+        ]
+    },
+    "PAT128_2022_07_03": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_8/gait_data/2022_07_03/PAT128_2022_07_03.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_8/gait_data/2022_07_03/PAT128_week_8_2022_07_03.h5"
+        ]
+    },
+    "PAT128_2022_07_04": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_8/gait_data/2022_07_04/PAT128_2022_07_04.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT128/week_8/gait_data/2022_07_04/PAT128_week_8_2022_07_04.h5"
+        ]
+    },
+    "PAT142_2022_10_24": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_1/gait_data/2022_10_24/PAT142_2022_10_24.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_1/gait_data/2022_10_24/PAT142_week_1_2022_10_24.h5"
+        ]
+    },
+    "PAT142_2022_12_16": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_8/gait_data/2022_12_16/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_8/gait_data/2022_12_16/PAT142_week_1_2022_12_16.h5"
+        ]
+    },
+    "PAT142_2022_12_19": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_8/gait_data/2022_12_19/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_8/gait_data/2022_12_19/PAT142_week_1_2022_12_19.h5"
+        ]
+    },
+    "PAT142_2022_12_20": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_8/gait_data/2022_12_20/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_8/gait_data/2022_12_20/PAT142_week_1_2022_12_20.h5"
+        ]
+    },
+    "PAT142_2022_12_21": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_8/gait_data/2022_12_21/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_8/gait_data/2022_12_21/PAT142_week_1_2022_12_21.h5"
+        ]
+    },
+    "PAT142_2022_12_22": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_8/gait_data/2022_12_22/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_8/gait_data/2022_12_22/PAT142_week_1_2022_12_22.h5"
+        ]
+    },
+    "PAT142_2022_12_23": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_8/gait_data/2022_12_23/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_8/gait_data/2022_12_23/PAT142_week_1_2022_12_23.h5"
+        ]
+    },
+    "PAT142_2022_12_24": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_8/gait_data/2022_12_24/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT142/week_8/gait_data/2022_12_24/PAT142_week_1_2022_12_24.h5"
+        ]
+    },
+    "PAT143_2022_11_16": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_1/gait_data/2022_11_16/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_1/gait_data/2022_11_16/PAT143_week_1_2022_11_16.h5"
+        ]
+    },
+    "PAT143_2022_11_17": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_1/gait_data/2022_11_17/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_1/gait_data/2022_11_17/PAT143_week_1_2022_11_17.h5"
+        ]
+    },
+    "PAT143_2022_11_18": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_1/gait_data/2022_11_18/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_1/gait_data/2022_11_18/PAT143_week_1_2022_11_18.h5"
+        ]
+    },
+    "PAT143_2022_11_19": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_1/gait_data/2022_11_19/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_1/gait_data/2022_11_19/PAT143_week_1_2022_11_19.h5"
+        ]
+    },
+    "PAT143_2022_11_20": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_1/gait_data/2022_11_20/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_1/gait_data/2022_11_20/PAT143_week_1_2022_11_20.h5"
+        ]
+    },
+    "PAT143_2022_11_21": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_1/gait_data/2022_11_21/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_1/gait_data/2022_11_21/PAT143_week_1_2022_11_21.h5"
+        ]
+    },
+    "PAT143_2023_01_04": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_8/gait_data/2023_01_04/PAT143_2023_01_04.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_8/gait_data/2023_01_04/PAT143_week_8_2023_01_04.h5"
+        ]
+    },
+    "PAT143_2023_01_05": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_8/gait_data/2023_01_05/PAT143_2023_01_05.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_8/gait_data/2023_01_05/PAT143_week_8_2023_01_05.h5"
+        ]
+    },
+    "PAT143_2023_01_07": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_8/gait_data/2023_01_07/PAT143_2023_01_07.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_8/gait_data/2023_01_07/PAT143_week_8_2023_01_07.h5"
+        ]
+    },
+    "PAT143_2023_01_08": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_8/gait_data/2023_01_08/PAT143_2023_01_08.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_8/gait_data/2023_01_08/PAT143_week_8_2023_01_08.h5"
+        ]
+    },
+    "PAT143_2023_01_09": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_8/gait_data/2023_01_09/PAT143_2023_01_09.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT143/week_8/gait_data/2023_01_09/PAT143_week_8_2023_01_09.h5"
+        ]
+    },
+    "PAT162_2024_09_03": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT162/week_1/gait_data/2024_09_03/PAT162_2024_09_03.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT162/week_1/gait_data/2024_09_03/PAT162_week_1_2024_09_03.h5"
+        ]
+    },
+    "PAT162_2024_09_04": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT162/week_1/gait_data/2024_09_04/PAT162_2024_09_04.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT162/week_1/gait_data/2024_09_04/PAT162_week_1_2024_09_04.h5"
+        ]
+    },
+    "PAT162_2024_09_05": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT162/week_1/gait_data/2024_09_05/PAT162_2024_09_05.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT162/week_1/gait_data/2024_09_05/PAT162_week_1_2024_09_05.h5"
+        ]
+    },
+    "PAT162_2024_09_07": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT162/week_1/gait_data/2024_09_07/PAT162_2024_09_07.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT162/week_1/gait_data/2024_09_07/PAT162_week_1_2024_09_07.h5"
+        ]
+    },
+    "PAT162_2024_10_28": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT162/week_8/gait_data/2024_10_28/PAT162_2024_10_28.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT162/week_8/gait_data/2024_10_28/PAT162_week_8_2024_10_28.h5"
+        ]
+    },
+    "PAT162_2024_10_29": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT162/week_8/gait_data/2024_10_29/PAT162_2024_10_29.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT162/week_8/gait_data/2024_10_29/PAT162_week_8_2024_10_29.h5"
+        ]
+    },
+    "PAT162_2024_10_30": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT162/week_8/gait_data/2024_10_30/PAT162_2024_10_30.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT162/week_8/gait_data/2024_10_30/PAT162_week_8_2024_10_30.h5"
+        ]
+    },
+    "PAT210_2022_02_08": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_1/gait_data/2022_02_08/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_1/gait_data/2022_02_08/PAT116015_week_1_2022_02_08.h5"
+        ]
+    },
+    "PAT210_2022_02_09": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_1/gait_data/2022_02_09/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_1/gait_data/2022_02_09/PAT116015_week_1_2022_02_09.h5"
+        ]
+    },
+    "PAT210_2022_02_10": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_1/gait_data/2022_02_10/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_1/gait_data/2022_02_10/PAT116015_week_1_2022_02_10.h5"
+        ]
+    },
+    "PAT210_2022_02_11": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_1/gait_data/2022_02_11/PAT210_2022_02_11.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_1/gait_data/2022_02_11/PAT116015_week_1_2022_02_11.h5"
+        ]
+    },
+    "PAT210_2022_02_12": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_1/gait_data/2022_02_12/PAT210_2022_02_12.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_1/gait_data/2022_02_12/PAT116015_week_1_2022_02_12.h5"
+        ]
+    },
+    "PAT210_2022_03_24": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_24/PAT210_2022_03_24.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_24/PAT116015_week_8_2022_03_24.h5"
+        ]
+    },
+    "PAT210_2022_03_25": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_25/PAT210_2022_03_25.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_25/PAT116015_week_8_2022_03_25.h5"
+        ]
+    },
+    "PAT210_2022_03_26": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_26/PAT210_2022_03_26.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_26/PAT116015_week_8_2022_03_26.h5"
+        ]
+    },
+    "PAT210_2022_03_27": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_27/PAT210_2022_03_27.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_27/PAT116015_week_8_2022_03_27.h5"
+        ]
+    },
+    "PAT210_2022_03_28": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_28/PAT210_2022_03_28.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_28/PAT116015_week_8_2022_03_28.h5"
+        ]
+    },
+    "PAT210_2022_03_29": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_29/PAT210_2022_03_29.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_29/PAT116015_week_8_2022_03_29.h5"
+        ]
+    },
+    "PAT210_2022_03_30": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_30/PAT210_2022_03_30.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_30/PAT116015_week_8_2022_03_30.h5"
+        ]
+    },
+    "PAT210_2022_03_31": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_31/PAT210_2022_03_31.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT210/week_8/gait_data/2022_03_31/PAT116015_week_8_2022_03_31.h5"
+        ]
+    },
+    "PAT220_2022_08_20": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT220/week_1/gait_data/2022_08_20/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT220/week_1/gait_data/2022_08_20/PAT319039_week_1_2022_08_20.h5"
+        ]
+    },
+    "PAT220_2022_08_22": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT220/week_1/gait_data/2022_08_22/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT220/week_1/gait_data/2022_08_22/PAT319039_week_1_2022_08_22.h5"
+        ]
+    },
+    "PAT220_2022_08_23": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT220/week_1/gait_data/2022_08_23/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT220/week_1/gait_data/2022_08_23/PAT220_week_1_2022_08_23.h5"
+        ]
+    },
+    "PAT220_2022_08_24": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT220/week_1/gait_data/2022_08_24/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT220/week_1/gait_data/2022_08_24/PAT220_week_1_2022_08_24.h5"
+        ]
+    },
+    "PAT220_2022_08_25": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT220/week_1/gait_data/2022_08_25/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT220/week_1/gait_data/2022_08_25/PAT220_week_1_2022_08_25.h5"
+        ]
+    },
+    "PAT220_2022_08_26": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT220/week_1/gait_data/2022_08_26/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT220/week_1/gait_data/2022_08_26/PAT319039_week_1_2022_08_26.h5"
+        ]
+    },
+    "PAT220_2022_08_28": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT220/week_1/gait_data/2022_08_28/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT220/week_1/gait_data/2022_08_28/PAT319039_week_1_2022_08_28.h5"
+        ]
+    },
+    "PAT223_2022_10_12": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_1/gait_data/2022_10_12/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_1/gait_data/2022_10_12/PAT421040_week_1_2022_10_12.h5"
+        ]
+    },
+    "PAT223_2022_10_13": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_1/gait_data/2022_10_13/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_1/gait_data/2022_10_13/PAT421040_week_1_2022_10_13.h5"
+        ]
+    },
+    "PAT223_2022_10_15": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_1/gait_data/2022_10_15/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_1/gait_data/2022_10_15/PAT421040_week_1_2022_10_15.h5"
+        ]
+    },
+    "PAT223_2022_10_16": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_1/gait_data/2022_10_16/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_1/gait_data/2022_10_16/PAT421040_week_1_2022_10_16.h5"
+        ]
+    },
+    "PAT223_2022_10_17": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_1/gait_data/2022_10_17/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_1/gait_data/2022_10_17/PAT421040_week_1_2022_10_17.h5"
+        ]
+    },
+    "PAT223_2022_11_30": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_8/gait_data/2022_11_30/PAT223_2022_11_30.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_8/gait_data/2022_11_30/PAT223_week_8_2022_11_30.h5"
+        ]
+    },
+    "PAT223_2022_12_01": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_8/gait_data/2022_12_01/PAT223_2022_12_01.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_8/gait_data/2022_12_01/PAT223_week_8_2022_12_01.h5"
+        ]
+    },
+    "PAT223_2022_12_02": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_8/gait_data/2022_12_02/PAT223_2022_12_02.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_8/gait_data/2022_12_02/PAT223_week_8_2022_12_02.h5"
+        ]
+    },
+    "PAT223_2022_12_03": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_8/gait_data/2022_12_03/PAT223_2022_12_03.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_8/gait_data/2022_12_03/PAT223_week_8_2022_12_03.h5"
+        ]
+    },
+    "PAT223_2022_12_04": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_8/gait_data/2022_12_04/PAT223_2022_12_04.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_8/gait_data/2022_12_04/PAT223_week_8_2022_12_04.h5"
+        ]
+    },
+    "PAT223_2022_12_05": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_8/gait_data/2022_12_05/PAT223_2022_12_05.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT223/week_8/gait_data/2022_12_05/PAT223_week_8_2022_12_05.h5"
+        ]
+    },
+    "PAT228_2023_01_20": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_1/gait_data/2023_01_20/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_1/gait_data/2023_01_20/PAT228_week_1_2023_01_20.h5"
+        ]
+    },
+    "PAT228_2023_01_21": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_1/gait_data/2023_01_21/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_1/gait_data/2023_01_21/PAT228_week_1_2023_01_21.h5"
+        ]
+    },
+    "PAT228_2023_01_22": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_1/gait_data/2023_01_22/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_1/gait_data/2023_01_22/PAT228_week_1_2023_01_22.h5"
+        ]
+    },
+    "PAT228_2023_01_23": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_1/gait_data/2023_01_23/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_1/gait_data/2023_01_23/PAT228_week_1_2023_01_23.h5"
+        ]
+    },
+    "PAT228_2023_01_24": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_1/gait_data/2023_01_24/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_1/gait_data/2023_01_24/PAT228_week_1_2023_01_24.h5"
+        ]
+    },
+    "PAT228_2023_01_25": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_1/gait_data/2023_01_25/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_1/gait_data/2023_01_25/PAT228_week_1_2023_01_25.h5"
+        ]
+    },
+    "PAT228_2023_01_26": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_1/gait_data/2023_01_26/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_1/gait_data/2023_01_26/PAT228_week_1_2023_01_26.h5"
+        ]
+    },
+    "PAT228_2023_03_09": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_8/gait_data/2023_03_09/PAT228_2023_03_09.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_8/gait_data/2023_03_09/PAT228_week_8_2023_03_09.h5"
+        ]
+    },
+    "PAT228_2023_03_10": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_8/gait_data/2023_03_10/PAT228_2023_03_10.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_8/gait_data/2023_03_10/PAT228_week_8_2023_03_10.h5"
+        ]
+    },
+    "PAT228_2023_03_11": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_8/gait_data/2023_03_11/PAT228_2023_03_11.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_8/gait_data/2023_03_11/PAT228_week_8_2023_03_11.h5"
+        ]
+    },
+    "PAT228_2023_03_12": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_8/gait_data/2023_03_12/PAT228_2023_03_12.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_8/gait_data/2023_03_12/PAT228_week_8_2023_03_12.h5"
+        ]
+    },
+    "PAT228_2023_03_13": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_8/gait_data/2023_03_13/PAT228_2023_03_13.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_8/gait_data/2023_03_13/PAT228_week_8_2023_03_13.h5"
+        ]
+    },
+    "PAT228_2023_03_14": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_8/gait_data/2023_03_14/PAT228_2023_03_14.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_8/gait_data/2023_03_14/PAT228_week_8_2023_03_14.h5"
+        ]
+    },
+    "PAT228_2023_03_15": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_8/gait_data/2023_03_15/PAT228_2023_03_15.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT228/week_8/gait_data/2023_03_15/PAT228_week_8_2023_03_15.h5"
+        ]
+    },
+    "PAT235_2023_06_29": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_1/gait_data/2023_06_29/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_1/gait_data/2023_06_29/PAT235_week_1_2023_06_29.h5"
+        ]
+    },
+    "PAT235_2023_06_30": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_1/gait_data/2023_06_30/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_1/gait_data/2023_06_30/PAT235_week_1_2023_06_30.h5"
+        ]
+    },
+    "PAT235_2023_07_01": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_1/gait_data/2023_07_01/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_1/gait_data/2023_07_01/PAT235_week_1_2023_07_01.h5"
+        ]
+    },
+    "PAT235_2023_07_02": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_1/gait_data/2023_07_02/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_1/gait_data/2023_07_02/PAT235_week_1_2023_07_02.h5"
+        ]
+    },
+    "PAT235_2023_07_03": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_1/gait_data/2023_07_03/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_1/gait_data/2023_07_03/PAT235_week_1_2023_07_03.h5"
+        ]
+    },
+    "PAT235_2023_07_04": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_1/gait_data/2023_07_04/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_1/gait_data/2023_07_04/PAT235_week_1_2023_07_04.h5"
+        ]
+    },
+    "PAT235_2023_07_05": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_1/gait_data/2023_07_05/PAT235_2023_07_05.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_1/gait_data/2023_07_05/PAT235_week_1_2023_07_05.h5"
+        ]
+    },
+    "PAT235_2023_08_16": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_8/gait_data/2023_08_16/PAT235_2023_08_16.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_8/gait_data/2023_08_16/PAT235_week_8_2023_08_16.h5"
+        ]
+    },
+    "PAT235_2023_08_17": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_8/gait_data/2023_08_17/PAT235_2023_08_17.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_8/gait_data/2023_08_17/PAT235_week_8_2023_08_17.h5"
+        ]
+    },
+    "PAT235_2023_08_18": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_8/gait_data/2023_08_18/PAT235_2023_08_18.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_8/gait_data/2023_08_18/PAT235_week_8_2023_08_18.h5"
+        ]
+    },
+    "PAT235_2023_08_19": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_8/gait_data/2023_08_19/PAT235_2023_08_19.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_8/gait_data/2023_08_19/PAT235_week_8_2023_08_19.h5"
+        ]
+    },
+    "PAT235_2023_08_21": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_8/gait_data/2023_08_21/PAT235_2023_08_21.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_8/gait_data/2023_08_21/PAT235_week_8_2023_08_21.h5"
+        ]
+    },
+    "PAT235_2023_08_22": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_8/gait_data/2023_08_22/PAT235_2023_08_22.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT235/week_8/gait_data/2023_08_22/PAT235_week_8_2023_08_22.h5"
+        ]
+    },
+    "PAT404_2023_09_11": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_1/gait_data/2023_09_11/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_1/gait_data/2023_09_11/PAT404_week_1_2023-09-11.h5"
+        ]
+    },
+    "PAT404_2023_09_12": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_1/gait_data/2023_09_12/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_1/gait_data/2023_09_12/PAT404_week_1_2023-09-12.h5"
+        ]
+    },
+    "PAT404_2023_09_13": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_1/gait_data/2023_09_13/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_1/gait_data/2023_09_13/PAT404_week_1_2023_09_13.h5"
+        ]
+    },
+    "PAT404_2023_09_14": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_1/gait_data/2023_09_14/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_1/gait_data/2023_09_14/PAT404_week_1_2023_09_14.h5"
+        ]
+    },
+    "PAT404_2023_09_16": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_1/gait_data/2023_09_16/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_1/gait_data/2023_09_16/PAT404_week_1_2023-09-16.h5"
+        ]
+    },
+    "PAT404_2023_09_17": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_1/gait_data/2023_09_17/PAT404_2023_09_17.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_1/gait_data/2023_09_17/PAT404_week_1_2023-09-17.h5"
+        ]
+    },
+    "PAT404_2023_10_30": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_8/gait_data/2023_10_30/PAT404_2023-10-30.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_8/gait_data/2023_10_30/PAT404_week_8_2023-10-30.h5"
+        ]
+    },
+    "PAT404_2023_10_31": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_8/gait_data/2023_10_31/PAT404_2023-10-31.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_8/gait_data/2023_10_31/PAT404_week_8_2023-10-31.h5"
+        ]
+    },
+    "PAT404_2023_11_02": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_8/gait_data/2023_11_02/PAT404_2023_11_02.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_8/gait_data/2023_11_02/PAT404_week_8_2023_11_02.h5"
+        ]
+    },
+    "PAT404_2023_11_03": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_8/gait_data/2023_11_03/PAT404_2023_11_03.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT404/week_8/gait_data/2023_11_03/PAT404_week_8_2023_11_03.h5"
+        ]
+    },
+    "PAT405_2023_09_11": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT405/week_1/gait_data/2023_09_11/manual_annotations.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT405/week_1/gait_data/2023_09_11/PAT405_week_1_2023_09_11.h5"
+        ]
+    },
+    "PAT405_2023_11_02": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT405/week_8/gait_data/2023_11_02/PAT405_2023-11-02.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT405/week_8/gait_data/2023_11_02/PAT405_week_8_2023-11-02.h5"
+        ]
+    },
+    "PAT405_2023_11_03": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT405/week_8/gait_data/2023_11_03/PAT405_2023-11-03.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT405/week_8/gait_data/2023_11_03/PAT405_week_8_2023-11-03.h5"
+        ]
+    },
+    "PAT405_2023_11_04": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT405/week_8/gait_data/2023_11_04/PAT405_2023-11-04.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT405/week_8/gait_data/2023_11_04/PAT405_week_8_2023-11-04.h5"
+        ]
+    },
+    "PAT405_2023_11_05": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT405/week_8/gait_data/2023_11_05/PAT405_2023-11-05.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT405/week_8/gait_data/2023_11_05/PAT405_week_8_2023-11-05.h5"
+        ]
+    },
+    "PAT413_2024_03_12": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_1/gait_data/2024_03_12/PAT413_2024-03-12.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_1/gait_data/2024_03_12/PAT413_week_1_2024-03-12.h5"
+        ]
+    },
+    "PAT413_2024_03_14": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_1/gait_data/2024_03_14/PAT413_2024-03-14.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_1/gait_data/2024_03_14/PAT413_week_1_2024-03-14.h5"
+        ]
+    },
+    "PAT413_2024_03_15": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_1/gait_data/2024_03_15/PAT413_2024-03-15.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_1/gait_data/2024_03_15/PAT413_week_1_2024-03-15.h5"
+        ]
+    },
+    "PAT413_2024_03_16": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_1/gait_data/2024_03_16/PAT413_2024-03-16.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_1/gait_data/2024_03_16/PAT413_week_1_2024-03-16.h5"
+        ]
+    },
+    "PAT413_2024_03_17": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_1/gait_data/2024_03_17/PAT413_2024-03-17.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_1/gait_data/2024_03_17/PAT413_week_1_2024-03-17.h5"
+        ]
+    },
+    "PAT413_2024_04_29": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_8/gait_data/2024_04_29/PAT413_2024-04-29.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_8/gait_data/2024_04_29/PAT413_week_8_2024-04-29.h5"
+        ]
+    },
+    "PAT413_2024_04_30": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_8/gait_data/2024_04_30/PAT413_2024-04-30.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_8/gait_data/2024_04_30/PAT413_week_8_2024-04-30.h5"
+        ]
+    },
+    "PAT413_2024_05_02": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_8/gait_data/2024_05_02/PAT413_2024-05-02.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_8/gait_data/2024_05_02/PAT413_week_8_2024-05-02.h5"
+        ]
+    },
+    "PAT413_2024_05_04": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_8/gait_data/2024_05_04/PAT413_2024-05-04.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_8/gait_data/2024_05_04/PAT413_week_8_2024-05-04.h5"
+        ]
+    },
+    "PAT413_2024_05_05": {
+        "csv_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_8/gait_data/2024_05_05/PAT413_2024-05-05.csv"
+        ],
+        "h5_files": [
+            "/media/yuxin/B0CA9DEACA9DACDA/dataset/PAT413/week_8/gait_data/2024_05_05/PAT413_week_8_2024-05-05.h5"
+        ]
+    }
+}
