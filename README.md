@@ -169,7 +169,7 @@ Project_Root/
 
    ```bash
    git clone https://github.com/yuxin28/Deep_Learning_based_Gait_Test_Detection_System.git
-   cd Yuxin_Gait_detection
+   cd Deep_Learning_based_Gait_Test_Detection_System
    ```
 
 2. **Install dependencies:**
