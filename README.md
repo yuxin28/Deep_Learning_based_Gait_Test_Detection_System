@@ -168,7 +168,7 @@ Project_Root/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://mad-srv.informatik.uni-erlangen.de/ox31ykoc/yuxin_gait_detection
+   git clone https://github.com/yuxin28/Deep_Learning_based_Gait_Test_Detection_System.git
    cd Yuxin_Gait_detection
    ```
 
