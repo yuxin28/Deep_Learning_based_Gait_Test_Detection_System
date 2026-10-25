@@ -1,0 +1,80 @@
+{
+  "device": "cuda:0",
+
+  "paths": {
+    "train_list": "./models_training/stage1/config/train_files.json",
+    "val_dict": "./models_training/stage1/config/val_files.json",
+    "test_dict": "./models_training/stage1/config/test_files.json",
+    "norm_json": "./models_training/stage1/config/norm_params.json"
+  },
+
+  "training": {
+    "segment_duration": 90,
+    "decision_duration": 30,
+    "num_workers": 4,
+    "amp": true,
+    "early_stopping_patience": 10,
+    "save_every": 5
+  },
+
+  "models": {
+    "A": {
+      "enable": true,
+      "name": "TCN",
+      "backbone_type": "tcn",
+      "save_dir": "./models_training/stage1/stage1_output/model_A_tcn",
+      "author_best_model_path": "./models_training/stage1/best_model/tcn/best_model.pth",
+
+      "batch_size": 64,
+      "epochs": 30,
+      "lr": 1e-4,
+      "weight_decay": 1e-5,
+      "obj_thresh": 0.5,
+
+      "model_params": {
+        "in_channels": 12,
+        "channels": [64, 64, 128, 128],
+        "kernel_size": 15,
+        "dilations": [8, 16, 32, 64, 128],
+        "use_skip": true,
+        "causal": false,
+        "proj_dim": 128
+      },
+
+      "focal_loss": {
+        "alpha": 0.75,
+        "gamma": 2.0
+      }
+    },
+
+    "B": {
+      "enable": true,
+      "name": "TCN_BiLSTM",
+      "backbone_type": "tcn_bilstm",
+      "save_dir": "./models_training/stage1/stage1_output/model_B_bilstm",
+      "author_best_model_path": "./models_training/stage1/best_model/tcn_bilstm/best_model.pth",
+
+      "batch_size": 32,
+      "epochs": 30,
+      "lr": 1e-4,
+      "weight_decay": 1e-5,
+      "obj_thresh": 0.5,
+
+      "model_params": {
+          "in_channels": 12,
+          "tcn_channels": [64, 64, 128],
+          "tcn_kernel_size": 15,
+          "tcn_dilations": [8, 16, 32],
+          "tcn_causal": false,
+          "lstm_hidden": 128,
+          "lstm_bidirectional": true,
+          "lstm_proj_out": 128
+      },
+
+      "focal_loss": {
+        "alpha": 0.75,
+        "gamma": 2.0
+      }
+    }
+  }
+}

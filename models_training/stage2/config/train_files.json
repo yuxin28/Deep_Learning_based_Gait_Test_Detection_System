@@ -1,0 +1,5 @@
+[
+  "/path/to/data/train/between_subject/subject_001/subject_001_session_01_Unet_filtered_gait_segments.npy",
+  "/path/to/data/train/between_subject/subject_001/subject_001_session_02_Unet_filtered_gait_segments.npy",
+  "/path/to/data/train/between_subject/subject_002/subject_002_session_01_Unet_filtered_gait_segments.npy"
+]

@@ -1,0 +1,75 @@
+{
+  "device": "cuda:0",
+
+
+  "paths": {
+    "train_list": "./models_training/stage2/config/train_files.json",
+    "val_dict": "./models_training/stage2/config/val_files.json",
+    "test_dict": "./models_training/stage2/config/test_files.json",
+    "norm_json": "./models_training/stage2/config/norm_params.json"
+  },
+
+  "training": {
+    "frequency": 102.4,               
+    "num_workers": 4,               
+
+    "amp": true,                     
+    "early_stopping_patience": 10,   
+    "save_every": 5                  
+  },
+
+ 
+  "models": {
+    "A": {
+      "enable": true,
+      "use_author_weights": true,
+      "model_type": "unet_bigru",
+      "save_dir": "./models_training/stage2/stage2_output/model_A_unet_bigru",
+      "use_author_best_model": true,
+      "author_best_model_path": "./models_training/stage2/best_model/unet_bigru/best_model.pth",
+
+      "batch_size": 32,
+      "epochs": 80,
+      "lr": 0.001,
+      "weight_decay": 0.0001,
+
+      "n_channels": 12,
+      "num_classes": 5,
+      "base_filter": 64,
+      "dropout_rate": 0.1,
+
+      "use_attention": false,
+      "use_recurrent_bottleneck": true,
+      "use_fusion": false,
+
+      "ignore_index": -100,
+      "class_weights": null
+    },
+
+    "B": {
+      "enable": true,
+      "use_author_weights": true,
+      "model_type": "unet_att_gru",
+      "save_dir": "./models_training/stage2/stage2_output/model_B_unet_att_gru",
+      "use_author_best_model": true,
+      "author_best_model_path": "./models_training/stage2/best_model/unet_att_gru/best_model.pth",
+
+      "batch_size": 32,
+      "epochs": 80,
+      "lr": 0.001,
+      "weight_decay": 0.0001,
+
+      "n_channels": 12,
+      "num_classes": 5,
+      "base_filter": 64,
+      "dropout_rate": 0.1,
+
+      "use_attention": true,
+      "use_recurrent_bottleneck": true,
+      "use_fusion": false,
+
+      "ignore_index": -100,
+      "class_weights": null
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "class_specific040_028_035_025_island300",
+  "models": {
+    "stage1_backbone": "tcn",
+    "stage2_model": "unet_bigru"
+  },
+  "preprocessing_config": {
+    "sampling_rate_hz": 102.4,
+    "sliding_window_s": 90,
+    "stride_s": 30,
+    "ullrich_config": {
+      "sensor_scope": "both",
+      "merge_gait_sequences_from_sensors": true,
+      "sensor_channel_config": "gyr_ml",
+      "peak_prominence": 12.0,
+      "active_signal_threshold": null,
+      "additional_margin_s": 0.0
+    }
+  },
+  "continuity_config": {
+    "mode": "legacy_any_positive",
+    "gaps_duration_ns": 30000000000
+  },
+  "postprocessing_config": {
+    "priority": [
+      4,
+      3,
+      1,
+      2,
+      0
+    ],
+    "class_on_thresholds": {
+      "1": 0.4,
+      "2": 0.4,
+      "3": 0.4,
+      "4": 0.35
+    },
+    "class_off_thresholds": {
+      "1": 0.28,
+      "2": 0.28,
+      "3": 0.28,
+      "4": 0.25
+    },
+    "min_duration_sec": {
+      "1": 15.0,
+      "2": 12.0,
+      "3": 20.0,
+      "4": 70.0
+    },
+    "gap_fill_sec": {
+      "1": 5.0,
+      "2": 5.0,
+      "3": 5.0,
+      "4": 15.0
+    },
+    "smooth_probabilities": true,
+    "smooth_sec": 1.5,
+    "switch_margin": 0.08,
+    "tie_margin": 0.02,
+    "switch_persist_sec": 1.0,
+    "island_filter": {
+      "enabled": true,
+      "neighborhood_sec": 300.0,
+      "min_neighbor_count": 1,
+      "target_classes": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "require_different_class_neighbor": false
+    },
+    "decoder_mode": "competition_aware",
+    "decoder_type": "competition_aware"
+  }
+}

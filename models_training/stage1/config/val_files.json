@@ -1,0 +1,8 @@
+{
+  "within_subject": [
+    "/path/to/data/val/within_subject/subject_001/subject_001_session_03_gait_segments.npy"
+  ],
+  "between_subject": [
+    "/path/to/data/val/between_subject/subject_003/subject_003_session_03_gait_segments.npy"
+  ]
+}

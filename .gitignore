@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+# Private data: never commit patient recordings, splits or results
+pipeline/samples/
+pipeline/end2end_metrics/test_dataset_info/
+pipeline/end2end_metrics/results/
+models_training/*/config/test_files.json
+models_training/stage1/stage1_output/
+models_training/stage2/stage2_output/
+*.h5
+*.npy
+pipeline/end2end_metrics/*_dataset_info/
+pipeline/end2end_metrics/results*/
+pipeline/end2end_metrics/postproc_cache*/
+output/
